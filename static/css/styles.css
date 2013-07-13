@@ -114,15 +114,19 @@ h1, h2, h3, h4 {
  -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
-.marketing .span4 {
+.marketing .span9 {
   text-align: center;
 }
 .marketing h2 {
   font-weight: normal;
 }
-.marketing .span4 p {
+.marketing .span9 p {
   margin-left: 10px;
   margin-right: 10px;
+}
+
+.marketing {
+  margin-top: 70px;
 }
 
 
