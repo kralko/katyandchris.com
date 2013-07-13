@@ -7,6 +7,10 @@ body {
   color: #5a5a5a;
 }
 
+p, address {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 h1, h2, h3, h4 {
   /* color: #a1754d; */
 }
