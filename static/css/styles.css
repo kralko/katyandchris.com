@@ -114,13 +114,13 @@ h1, h2, h3, h4 {
  -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
-.marketing .span9 {
+.marketing .span8 {
   text-align: center;
 }
 .marketing h2 {
   font-weight: normal;
 }
-.marketing .span9 p {
+.marketing .span8 p {
   margin-left: 10px;
   margin-right: 10px;
 }
@@ -238,6 +238,12 @@ h1, h2, h3, h4 {
     line-height: 1.5;
   }
 
+}
+
+.signature {
+  font-size: 18px;
+  line-height: 1.5;
+  font-style: italic;
 }
 
 .color1 {
