@@ -250,6 +250,10 @@ h1, h2, h3, h4 {
   font-style: italic;
 }
 
+.credit {
+  font-size: 12px;
+}
+
 .color1 {
   color: #fdf3ed;
 }
